@@ -1,0 +1,13 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Property Card",
+      "uid": "property_card",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "property-card.jsx"
+      },
+      "objectTypes": [{ "name": "contacts" }]
+    }
+  }
+  

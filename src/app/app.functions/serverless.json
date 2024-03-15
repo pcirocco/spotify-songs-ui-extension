@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "myFunc": {
+      "file": "getSongs.js",
+      "secrets": []
+    }
+  }
+}

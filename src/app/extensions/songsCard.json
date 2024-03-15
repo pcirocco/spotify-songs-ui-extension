@@ -1,0 +1,13 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Songs Card",
+      "uid": "songsCard",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "songsCard.jsx"
+      },
+      "objectTypes": [{ "name": "contacts" }]
+    }
+  }
+  
